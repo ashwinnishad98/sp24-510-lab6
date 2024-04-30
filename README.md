@@ -16,3 +16,7 @@ streamlit run app.py
 
 ### What's Included
 - app.py: Entry point to the application, where a prompt from the user regarding details about the event are sent to Google's Gemini LLM to plan an event.
+
+## Improvements
+- Added delimeters to indicate what parts of the event planning to consider.
+- Added step by step instructions when designing the event.
